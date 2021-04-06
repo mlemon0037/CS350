@@ -1,0 +1,56 @@
+County          FIPS Code  Seat                 Established  Population  Area
+Hampshire       027        Romney               1754         23964       642 
+Berkeley        003        Martinsburg          1772         104169      321 
+Monongalia      061        Morgantown           1776         96189       361 
+Ohio            069        Wheeling             1776         44443       106 
+Greenbrier      025        Lewisburg            1778         35480       1021
+Harrison        033        Clarksburg           1784         69099       416 
+Hardy           031        Moorefield           1786         14025       583 
+Randolph        083        Elkins               1787         29405       1040
+Pendleton       071        Franklin             1788         7695        698 
+Kanawha         039        Charleston           1789         193063      903 
+Brooke          009        Wellsburg            1796         24069       89  
+Wood            107        Parkersburg          1798         86956       367 
+Monroe          063        Union                1799         13502       473 
+Jefferson       037        Charles Town         1801         53498       210 
+Mason           053        Point Pleasant       1804         27324       432 
+Cabell          011        Huntington           1809         96319       282 
+Tyler           095        Middlebourne         1814         9208        258 
+Lewis           041        Weston               1816         16372       389 
+Nicholas        067        Summersville         1818         26233       649 
+Preston         077        Kingwood             1818         33520       648 
+Morgan          065        Berkeley Springs     1820         17541       229 
+Pocahontas      075        Marlinton            1821         8719        940 
+Logan           045        Logan                1824         36743       454 
+Fayette         019        Fayetteville         1831         46039       664 
+Jackson         035        Ripley               1831         29211       466 
+Marshall        051        Moundsville          1835         33107       307 
+Braxton         007        Sutton               1836         14523       514 
+Mercer          055        Princeton            1837         62264       420 
+Marion          049        Fairmont             1842         56418       310 
+Wayne           099        Wayne                1842         42481       506 
+Barbour         001        Philippi             1843         16589       341 
+Ritchie         085        Harrisville          1843         10449       454 
+Taylor          091        Grafton              1844         16895       173 
+Doddridge       017        West Union           1845         8202        320 
+Gilmer          021        Glenville            1845         8693        340 
+Wetzel          103        New Martinsville     1846         16583       359 
+Boone           005        Madison              1847         24629       503 
+Hancock         029        New Cumberland       1848         30676       83  
+Putnam          079        Winfield             1848         55486       346 
+Wirt            105        Elizabeth            1848         5717        233 
+Raleigh         081        Beckley              1850         78859       607 
+Wyoming         109        Pineville            1850         23796       501 
+Pleasants       073        Saint Marys          1851         7605        131 
+Upshur          097        Buckhannon           1851         24254       355 
+Calhoun         013        Grantsville          1856         7627        281 
+Roane           087        Spencer              1856         14926       484 
+Tucker          093        Parsons              1856         7141        419 
+Clay            015        Clay                 1858         9386        342 
+McDowell        047        Welch                1858         22113       535 
+Webster         101        Webster Springs      1860         9154        556 
+Grant           023        Petersburg           1866         11937       477 
+Mineral         057        Keyser               1866         28212       328 
+Lincoln         043        Hamlin               1867         21720       438 
+Summers         089        Hinton               1871         13927       361 
+Mingo           059        Williamson           1895         26839       423 
